@@ -67,7 +67,7 @@ Los controladores principales se encuentran en `app/Http/Controllers/`:
 - PHP >= 8.1
 - Laravel 10+
 - Composer
-- MySQL (u otra base de datos compatible)
+- MySQL
 
 ---
 
@@ -82,7 +82,7 @@ git clone https://github.com/nJuanPablo/Laravel-File-Manager.git
 * composer install
 * npm install 
 
-3. Crea tu archivo de entorno:
+3. Cree el archivo de entorno:
 
 * cp .env.example .env
 * php artisan key:generate
