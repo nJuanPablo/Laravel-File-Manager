@@ -75,7 +75,7 @@ Los controladores principales se encuentran en `app/Http/Controllers/`:
 
 1. Clona el repositorio:
 
-git clone https://github.com/tuusuario/tu-proyecto.git
+git clone https://github.com/tuusuario/tu-proyecto.git](https://github.com/nJuanPablo/Laravel-File-Manager.git
 cd tu-proyecto
 
 2. Instala las dependencias:
