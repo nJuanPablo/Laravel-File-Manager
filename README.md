@@ -108,6 +108,11 @@ Carpeta Raíz A
 
 Carpeta Raíz B
 
+## ✍️ Usuarios de prueba 
+* Cedula: 6314334573 - password: ba2E46C7wn6K (admin)
+* Cedula: 8311937671 - password: Y3Fu6J1KNI4E
+* Cedula: 5964361473 - password: YLP92Ia5M7uH
+
 ## ✍️ Autor
 Juan Pablo Navarro Cabiativa
 
