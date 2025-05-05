@@ -76,27 +76,26 @@ Los controladores principales se encuentran en `app/Http/Controllers/`:
 1. Clona el repositorio:
 
 git clone https://github.com/nJuanPablo/Laravel-File-Manager.git
-cd tu-proyecto
 
 2. Instala las dependencias:
 
-composer install
-npm install && npm run dev
+* composer install
+* npm install 
 
 3. Crea tu archivo de entorno:
 
-cp .env.example .env
-php artisan key:generate
+* cp .env.example .env
+* php artisan key:generate
 
-4. Configura la base de datos (proyecto) en .env.
+4. Configura la base de datos en .env.
 
 5. Ejecuta las migraciones:
 
-php artisan migrate:fresh --seed
+* php artisan migrate:fresh --seed
 
 6. Inicia el servidor:
 
-php artisan serve
+* php artisan serve
 
 ## 📂 Estructura de Carpetas (Ejemplo Visual)
 
