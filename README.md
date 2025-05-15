@@ -67,36 +67,34 @@ Los controladores principales se encuentran en `app/Http/Controllers/`:
 - PHP >= 8.1
 - Laravel 10+
 - Composer
-- MySQL (u otra base de datos compatible)
+- MySQL
 
 ---
 
 ## 🚀 Instalación
-
 1. Clona el repositorio:
-
+```bash
 git clone https://github.com/nJuanPablo/Laravel-File-Manager.git
-cd tu-proyecto
-
+```
 2. Instala las dependencias:
-
+```bash
 composer install
-npm install && npm run dev
-
-3. Crea tu archivo de entorno:
-
+npm install
+```
+3. Cree el archivo de entorno:
+```bash
 cp .env.example .env
 php artisan key:generate
-
-4. Configura la base de datos (proyecto) en .env.
-
+```
+4. Configura la base de datos en .env.
 5. Ejecuta las migraciones:
-
+```bash
 php artisan migrate:fresh --seed
-
+```
 6. Inicia el servidor:
-
+```bash
 php artisan serve
+```
 
 ## 📂 Estructura de Carpetas (Ejemplo Visual)
 
@@ -108,6 +106,11 @@ Carpeta Raíz A
    * Subcarpeta A2
 
 Carpeta Raíz B
+
+## ✍️ Usuarios de prueba 
+* Cedula: 6314334573 - password: ba2E46C7wn6K (admin)
+* Cedula: 8311937671 - password: Y3Fu6J1KNI4E
+* Cedula: 5964361473 - password: YLP92Ia5M7uH
 
 ## ✍️ Autor
 Juan Pablo Navarro Cabiativa
